@@ -1,0 +1,101 @@
+.title{
+    background-color: rgb(0, 255, 255);
+}
+h1 {
+    font-family: 'Secular One', sans-serif sans-serif-bold;
+    font-size: 3rem;
+    line-height: 1rem;
+    color: white !important;
+    font-weight: bold !important;
+}
+    
+
+.container{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.navbar {
+    padding-bottom: 5rem;
+}
+.navbar-brand {
+    color: white  !important;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.row{
+    padding-top: 3rem;
+}
+.botton{
+margin-left: 1.5% !important;
+margin-top: 5% !important;
+margin-right: 1.5% !important;
+}
+.heading{
+    padding-bottom: 6%;
+}
+.nav-link{
+    color: white !important;
+    margin: 2% !important;
+    font-weight: bold;
+    margin-right: 3rem !important;
+}
+#features{
+    padding: 0% 15% !important;
+    text-align: center;
+}
+p{
+    color: grey;
+}
+.coloumn{
+    padding: 6%;
+}
+.second{
+    color: rgb(109, 222, 199); 
+    margin-bottom: 3%;
+}
+.second:hover  {
+    color:  rgb(0, 255, 255);
+}
+#testinomials{
+   
+    text-align: center; 
+    background-color: rgb(33, 240, 255);
+}
+h3{
+    color: white;
+    font-size: 2rem !important;
+    line-height: 2rem !important;
+    font-weight: bold;
+    margin-bottom: 6% !important;
+    
+}
+.testinomial-img{
+    width: 10rem;
+    height: 12rem;
+    border-radius: 100%;
+}
+em {
+    color: white;
+}
+h2{
+    color: black;
+    font-size: 2rem !important;
+    line-height: 2rem !important;
+    font-weight: bolder;
+    margin-bottom: 6% !important;
+    
+}
+.carousel-item{
+    padding: 5% 20%;
+}
+.media-img{
+    height: 4rem;
+    width: 7rem;
+    margin: 3%;
+}
+#media{
+    background-color: rgb(33, 240, 255);
+    text-align: center;
+}
